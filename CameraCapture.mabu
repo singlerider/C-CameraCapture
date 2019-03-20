@@ -1,0 +1,14 @@
+KIND = program
+
+SRCS = main.cpp
+
+DEFS = \
+    ML_DEFAULT_LOG_TAG="CameraCapture" \
+
+USES = \
+    ml_sdk \
+    stdc++ \
+
+SHLIBS= \
+    ml_camera \
+    ml_privileges
