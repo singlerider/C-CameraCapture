@@ -1,3 +1,5 @@
+klkdsahfjkhdsakjfhlkjadshfjkldsahfjkldsahakjfldashjkfadshkljfhdaskljhfadjklshfjklahdslkjf
+
 // %BANNER_BEGIN%
 // ---------------------------------------------------------------------
 // %COPYRIGHT_BEGIN%
@@ -39,6 +41,8 @@
 #include <ml_logging.h>
 #include <ml_privileges.h>
 #include <ml_camera.h>
+
+// This is text that I changed in main.cpp
 
 int main() {
   MLLifecycleCallbacks callbacks{};
