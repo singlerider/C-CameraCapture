@@ -2,3 +2,4 @@
 .out/
 documents/
 .DS_Store
+ipch/
